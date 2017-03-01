@@ -1,7 +1,19 @@
-#board {
-    padding: 0;
-    margin: auto;
-    display: block;
-    width: 600;
-    height: 600;
+h2 {
+    font-family: sans-serif
+}
+
+#stage1{
+    background-color: lightblue;
+}
+
+#stage2 {
+    background-color: chocolate;
+}
+
+#nothing {
+    background-color: darkcyan;
+}
+
+#nothing2 {
+    background-color: darkseagreen;
 }
