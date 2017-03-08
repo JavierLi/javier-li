@@ -1,5 +1,5 @@
 h2 {
-    font-family: sans-serif
+    font-family: sans-serif;
 }
 
 #stage1{
@@ -16,4 +16,8 @@ h2 {
 
 #nothing2 {
     background-color: darkseagreen;
+}
+
+#windoggo {
+    background-color: deepskyblue;
 }
